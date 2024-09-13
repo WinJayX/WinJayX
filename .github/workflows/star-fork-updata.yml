@@ -1,23 +1,22 @@
-name: 这个仓库有 x 个 star y 个 fork
-
+name: Repo has forks
 on:
   push:
     branches:
-      - master
+      - main  
   fork:
   watch:
-    types:
-      - started
+    types: [started]
   schedule:
-#    - cron: '20 * * * *'
-  workflow_dispatch:
+    - cron: '* */8 * * *'   # 定时任务
+  workflow_dispatch:        # 手动运行    
+    
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - name: This repo has x stars y forks
-        uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
+        uses: ouuan/This-repo-has-x-stars-y-forks-action@v3
         with:
-          token: ${{ secrets.ACCESS_TOKEN }}
-          template: "WinJayX readme profile with <starCount> stars and <forkCount> forks 🌟"
+          token: ${{ secrets.GITHUB_TOKEN }}
+          template: "🤖 A GitHub Action to update this sentence for your repository: <auto>; WinJayX readme profile with <starCount> stars and <forkCount> forks 🌟."
