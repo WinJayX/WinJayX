@@ -6,8 +6,8 @@ on:
   fork:
   watch:
     types: [started]
-  schedule:
-    - cron: '* */8 * * *'   # 定时任务
+#  schedule:
+#    - cron: '* */8 * * *'   # 定时任务
   workflow_dispatch:        # 手动运行    
     
 
