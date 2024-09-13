@@ -34,11 +34,9 @@
 <!-- Snake 3D -->
 [![snake](https://raw.githubusercontent.com/WinJayX/WinJayX/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/WinJayX/WinJayX/output/github-contribution-grid-snake.svg)
 
-<!--信息统计-->
-<img align="center" width="50%" src="https://streak-stats.demolab.com/?user=WinJayX" />
+<!--信息统计-->        <!--修仙等级-->
+<img align="center" width="50%" src="https://streak-stats.demolab.com/?user=WinJayX" /> <img align="center" width="450" src="https://github-immortality.vercel.app/api?username=WinJayX"/>
 
-<!--修仙等级-->
-<img align="center" width="450" src="https://github-immortality.vercel.app/api?username=WinJayX"/>
 
 
 <!--Profile-3D-->
