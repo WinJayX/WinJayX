@@ -1,0 +1,100 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/WinJayX/K8SReg/commit/ac32da9cc1eee15a3f3cf699b5a8c85447994b6a\"><strong>a</strong>c32da9cc1eee15a3f3cf699b5a8c85447994b6a</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/WinJayX/WinJayX/commit/abb99622e33608a15737eb76820ad78f33d92060\"><strong>ab</strong>b99622e33608a15737eb76820ad78f33d92060</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"#0;\".",
+    "body": "My favorite commit message words are:\n\n1. #0; (used 120 times)\n2. files. (used 68 times)\n3. add (used 62 times)\n4. update (used 59 times)\n5. file. (used 30 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/005.Python/commit/332546783bd5bf8e25687f5dfad110936913f3a5\">3325467</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/005.Python/commit/ce67b42a58a22d424e484c2d7479fdc73cd12a17\">ce67b42</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/goharbor/harbor-helm/issues/913\">#913</a>: unauthorized: unauthorized to access repository: ${project}/${appname}, action: push: unauthorized to access repository: ${project}/${appname}, action: push",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/kubernetes/ingress-nginx/pull/7683\">#7683</a>: Master",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "pr-collaboration-10",
+    "tier": 2,
+    "desc": "I have participated in pull requests with 10 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/kubernetes/ingress-nginx/pull/7683\">#7683</a>: Master",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
+  },
+  {
+    "id": "pr-collaboration-15",
+    "tier": 3,
+    "desc": "I have participated in pull requests with 15 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/kubernetes/ingress-nginx/pull/7683\">#7683</a>: Master",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-15.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/WinJayX/commit/1917512349ccb84736c2c542fb031f2fb36e4dd6\">1917512</a>\n- <a href=\"https://github.com/WinJayX/WinJayX/commit/3d795913d51b3302a74f209dfe2c90cbc8c70e06\">3d79591</a>\n- <a href=\"https://github.com/WinJayX/WinJayX/commit/03152e34a5d5b8b4dc9273268e8d04d15cc86afc\">03152e3</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/41165aaf44eb1127f31fd186859bc82aeaf64945\">41165aa</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/750200e6a07d276ab186d8ff715ea13c8765d5c0\">750200e</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/28aeeec6836b2d412782fbdbf45eaab63808a8db\">28aeeec</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/005.Python/commit/dba0a5b20b6fd20a9344afef440a7f2cd50d2266\">dba0a5b</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
