@@ -74,11 +74,17 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [随机图片API站点整理](https://winjay.cn/?p=eb12c679-2105-4d89-a3fa-50fef93b3a1e)
-- [新装RockyLinux系统操作步骤](https://winjay.cn/?p=fd771571-5e0f-4ad1-980f-3068a056ddd5)
-- [配置Containerd运行时镜像加速器](https://winjay.cn/?p=a7eed29e-a0c6-4110-829e-235eea111842)
-- [macOS find文件基本操作](https://winjay.cn/?p=86355cae-d6b3-41bb-bb89-49efa92a22e8)
-- [macOS系统禁止生成 .DS_Store 文件](https://winjay.cn/?p=682c25a0-c96b-49a4-836e-785e1d315d7d)
+- 💻 [随机图片API站点整理](https://winjay.cn/?p=eb12c679-2105-4d89-a3fa-50fef93b3a1e) 
+
+- 🤡 [新装RockyLinux系统操作步骤](https://winjay.cn/?p=fd771571-5e0f-4ad1-980f-3068a056ddd5) 
+
+- 🎉 [配置Containerd运行时镜像加速器](https://winjay.cn/?p=a7eed29e-a0c6-4110-829e-235eea111842) 
+
+- 👀 [macOS find文件基本操作](https://winjay.cn/?p=86355cae-d6b3-41bb-bb89-49efa92a22e8) 
+
+- 👺 [macOS系统禁止生成 .DS_Store 文件](https://winjay.cn/?p=682c25a0-c96b-49a4-836e-785e1d315d7d) 
+
+- 📝 [Nginx常用功能](https://winjay.cn/?p=e5247a4a-d3ec-47c4-b317-3246a9fb66d3) 
 <!-- BLOG-POST-LIST:END -->
 <p align="center">
 
