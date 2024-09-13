@@ -38,7 +38,7 @@
 <img align="center" width="50%" src="https://streak-stats.demolab.com/?user=WinJayX" />
 
 <!--修仙等级-->
-<img align="center" width="460" src="https://github-immortality.vercel.app/api?username=WinJayX"/>
+<img align="center" width="450" src="https://github-immortality.vercel.app/api?username=WinJayX"/>
 
 
 <!--Profile-3D-->
