@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"#0;\".",
-    "body": "My favorite commit message words are:\n\n1. #0; (used 120 times)\n2. files. (used 68 times)\n3. add (used 62 times)\n4. update (used 59 times)\n5. file. (used 30 times)",
+    "body": "My favorite commit message words are:\n\n1. #0; (used 126 times)\n2. files. (used 68 times)\n3. add (used 67 times)\n4. update (used 59 times)\n5. commit (used 38 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/WinJayX/commit/1917512349ccb84736c2c542fb031f2fb36e4dd6\">1917512</a>\n- <a href=\"https://github.com/WinJayX/WinJayX/commit/3d795913d51b3302a74f209dfe2c90cbc8c70e06\">3d79591</a>\n- <a href=\"https://github.com/WinJayX/WinJayX/commit/03152e34a5d5b8b4dc9273268e8d04d15cc86afc\">03152e3</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/41165aaf44eb1127f31fd186859bc82aeaf64945\">41165aa</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/750200e6a07d276ab186d8ff715ea13c8765d5c0\">750200e</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/28aeeec6836b2d412782fbdbf45eaab63808a8db\">28aeeec</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/b1dd8998d11bfc0e92bccb376d3f0ca6732c238d\">b1dd899</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/79f9d18f9cea15bef45a5a424fbb83b6be61728d\">79f9d18</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/5d46f0d1f6e3ed7ecd1f47f41ea365b3fefba592\">5d46f0d</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/5f9b6529da54d4dcdeb3d3d727a18616038f7440\">5f9b652</a>\n- <a href=\"https://github.com/WinJayX/WinJayX/commit/1917512349ccb84736c2c542fb031f2fb36e4dd6\">1917512</a>\n- <a href=\"https://github.com/WinJayX/WinJayX/commit/3d795913d51b3302a74f209dfe2c90cbc8c70e06\">3d79591</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -96,5 +96,26 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/005.Python/commit/dba0a5b20b6fd20a9344afef440a7f2cd50d2266\">dba0a5b</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/087656ec6e80feda9994e8bfc4346dff0bab1902\">087656e</a>: chore(bot): 💩 auto commit",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/2d61670aafd7f92a142c65d5da0a7d014cc878a2\">2d61670</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/6b440b8d8e26e10e2ff9053f06fc7304151534f5\">6b440b8</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/be3fcc8efe111e42054245620d997b34a633fd0a\">be3fcc8</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/53e7f6a3e56fc2447e429cad7519988096557a6c\">53e7f6a</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/fb2190d76b2e5081dc70adbbb296034d6c2054c8\">fb2190d</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/087656ec6e80feda9994e8bfc4346dff0bab1902\">087656e</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/6c3bedec93c2f3613b4799c15794843bdde7ad25\">6c3bede</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/d91009a11586eba9892d548439fa14c7b8899123\">d91009a</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   }
 ]
