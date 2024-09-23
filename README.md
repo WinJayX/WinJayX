@@ -13,9 +13,8 @@
 ### 🔨 Languages and Tools
 <details open>
 <summary>点击收起 ...</summary>
-  
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,mongodb,mysql,redis,nginx,vscode,atom,obsidian,ansible,prometheus,actix,apple,devto,lua,nodejs,npm,pycharm,py,pytorch,rabbitmq,raspberrypi,react,redhat,rocket,spring,sublime,twitter,wordpress&theme=light)](https://github.com/WinJayX)
 
+[![My Skills](https://skillicons.dev/icons?i=ansible,apple,arch,bash,debian,docker,elasticsearch,git,github,githubactions,gitlab,go,grafana,html,java,js,jenkins,kafka,kali,kubernetes,less,linux,lua,md,maven,mongodb,mysql,nginx,nodejs,npm,postgres,postman,prometheus,pycharm,py,pytorch,rabbitmq,raspberrypi,redhat,redis,rocket,sublime,vim,vscode,vue&theme=light)](https://github.com/WinJayX)
 </details>
 
 
