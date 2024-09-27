@@ -73,17 +73,17 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- 💻 [【macOS】JDK 多版本切换配置](https://winjay.cn/?p=a202171b-a7f8-4f96-984c-0fff88648eb7) 
+- 💻 [nohup部署更新升级Java后端项目](https://winjay.cn/?p=0da36091-cd02-4ffe-aa6f-2fac31724663) 
 
-- 🤡 [Github Workflows Demo](https://winjay.cn/?p=905e4098-4250-487e-be18-071c4b9f9f26) 
+- 🤡 [Docker 缓存清理](https://winjay.cn/?p=96e455da-0e12-4076-abaa-06b70c1a4dcf) 
 
-- 🎉 [Docker镜像代理配置](https://winjay.cn/?p=aec73b20-37a8-4c6b-969d-b624627132de) 
+- 🎉 [【macOS】JDK 多版本切换配置](https://winjay.cn/?p=a202171b-a7f8-4f96-984c-0fff88648eb7) 
 
-- 👀 [随机图片API站点整理](https://winjay.cn/?p=eb12c679-2105-4d89-a3fa-50fef93b3a1e) 
+- 👀 [Github Workflows Demo](https://winjay.cn/?p=905e4098-4250-487e-be18-071c4b9f9f26) 
 
-- 👺 [新装RockyLinux系统操作步骤](https://winjay.cn/?p=fd771571-5e0f-4ad1-980f-3068a056ddd5) 
+- 👺 [Docker镜像代理配置](https://winjay.cn/?p=aec73b20-37a8-4c6b-969d-b624627132de) 
 
-- 📝 [配置Containerd运行时镜像加速器](https://winjay.cn/?p=a7eed29e-a0c6-4110-829e-235eea111842) 
+- 📝 [随机图片API站点整理](https://winjay.cn/?p=eb12c679-2105-4d89-a3fa-50fef93b3a1e) 
 <!-- BLOG-POST-LIST:END -->
 <p align="center">
 
