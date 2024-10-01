@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/WinJayX/004.KubernetesYaml/commit/b1dd8998d11bfc0e92bccb376d3f0ca6732c238d">b1dd899</a>
-- <a href="https://github.com/WinJayX/000.Linux/commit/79f9d18f9cea15bef45a5a424fbb83b6be61728d">79f9d18</a>
-- <a href="https://github.com/WinJayX/015.BaseServ/commit/5d46f0d1f6e3ed7ecd1f47f41ea365b3fefba592">5d46f0d</a>
-- <a href="https://github.com/WinJayX/002.Docker/commit/5f9b6529da54d4dcdeb3d3d727a18616038f7440">5f9b652</a>
-- <a href="https://github.com/WinJayX/WinJayX/commit/1917512349ccb84736c2c542fb031f2fb36e4dd6">1917512</a>
-- <a href="https://github.com/WinJayX/WinJayX/commit/3d795913d51b3302a74f209dfe2c90cbc8c70e06">3d79591</a>
+- <a href="https://github.com/WinJayX/011.Bind-DNS/commit/83ab923c206772005723946724be6e1368ff8380">83ab923</a>
+- <a href="https://github.com/WinJayX/winjayx.github.io/commit/af06f67be2f1353e6c2538361a7729f7522abe33">af06f67</a>
+- <a href="https://github.com/WinJayX/013.K8SReg/commit/eac05c08ff9304e94c74de6e0b005bb5df70484c">eac05c0</a>
+- <a href="https://github.com/WinJayX/009.PublicCourses/commit/1683ec3c5cae0764f532881df56d65b294db2e92">1683ec3</a>
+- <a href="https://github.com/WinJayX/011.Bind-DNS/commit/31e11d64ebc2e723e258258274dd27563656ab60">31e11d6</a>
+- <a href="https://github.com/WinJayX/winjayx.github.io/commit/fcb38a6c3cd62e5d0526b739ce4518ce946325db">fcb38a6</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

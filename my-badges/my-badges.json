@@ -3,14 +3,14 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/WinJayX/K8SReg/commit/ac32da9cc1eee15a3f3cf699b5a8c85447994b6a\"><strong>a</strong>c32da9cc1eee15a3f3cf699b5a8c85447994b6a</a>",
+    "body": "- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/a620e9df315ce89cc0a8f09076f2fdf10d4d9d10\"><strong>a</strong>620e9df315ce89cc0a8f09076f2fdf10d4d9d10</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/WinJayX/WinJayX/commit/abb99622e33608a15737eb76820ad78f33d92060\"><strong>ab</strong>b99622e33608a15737eb76820ad78f33d92060</a>",
+    "body": "- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/abb4c4d69f7765d9c89aa840cf8e44e62234709d\"><strong>ab</strong>b4c4d69f7765d9c89aa840cf8e44e62234709d</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -23,8 +23,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"#0;\".",
-    "body": "My favorite commit message words are:\n\n1. #0; (used 126 times)\n2. files. (used 68 times)\n3. add (used 67 times)\n4. update (used 59 times)\n5. commit (used 38 times)",
+    "desc": "My favorite word is \"commit\".",
+    "body": "My favorite commit message words are:\n\n1. commit (used 759 times)\n2. chore(bot): (used 746 times)\n3. auto (used 746 times)\n4. #0; (used 133 times)\n5. 🤖 (used 91 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/b1dd8998d11bfc0e92bccb376d3f0ca6732c238d\">b1dd899</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/79f9d18f9cea15bef45a5a424fbb83b6be61728d\">79f9d18</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/5d46f0d1f6e3ed7ecd1f47f41ea365b3fefba592\">5d46f0d</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/5f9b6529da54d4dcdeb3d3d727a18616038f7440\">5f9b652</a>\n- <a href=\"https://github.com/WinJayX/WinJayX/commit/1917512349ccb84736c2c542fb031f2fb36e4dd6\">1917512</a>\n- <a href=\"https://github.com/WinJayX/WinJayX/commit/3d795913d51b3302a74f209dfe2c90cbc8c70e06\">3d79591</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/83ab923c206772005723946724be6e1368ff8380\">83ab923</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/af06f67be2f1353e6c2538361a7729f7522abe33\">af06f67</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/eac05c08ff9304e94c74de6e0b005bb5df70484c\">eac05c0</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/1683ec3c5cae0764f532881df56d65b294db2e92\">1683ec3</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/31e11d64ebc2e723e258258274dd27563656ab60\">31e11d6</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/fcb38a6c3cd62e5d0526b739ce4518ce946325db\">fcb38a6</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -101,21 +101,21 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/087656ec6e80feda9994e8bfc4346dff0bab1902\">087656e</a>: chore(bot): 💩 auto commit",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/ddb78b2be2b25591321108b04cc9adbf43dc7b95\">ddb78b2</a>: chore(bot): 😂 auto commit",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/2d61670aafd7f92a142c65d5da0a7d014cc878a2\">2d61670</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/6b440b8d8e26e10e2ff9053f06fc7304151534f5\">6b440b8</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/be3fcc8efe111e42054245620d997b34a633fd0a\">be3fcc8</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/53e7f6a3e56fc2447e429cad7519988096557a6c\">53e7f6a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/e8f00b2d748569073b4551fb1cf312738579688e\">e8f00b2</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/3ebae3c664d1fccdc48b5881502f27bbd02883ae\">3ebae3c</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/8ffcdf1868dfc9858b605347610d7040eeef6bee\">8ffcdf1</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/b3b1c261995b763dc9cce4659bd0d3bdb4ca6893\">b3b1c26</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/4a263174d2663e66bd3045216c7a4014398e9935\">4a26317</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/54ff7ed4123dffcb28e408a9fb7a60e9c950062c\">54ff7ed</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/fb2190d76b2e5081dc70adbbb296034d6c2054c8\">fb2190d</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/087656ec6e80feda9994e8bfc4346dff0bab1902\">087656e</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/6c3bedec93c2f3613b4799c15794843bdde7ad25\">6c3bede</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/d91009a11586eba9892d548439fa14c7b8899123\">d91009a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/d25d763d680dd254f5ef20ae075857246853cff3\">d25d763</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/7a6ebb10e0f6f9bb911b2e97b09b8db9ef26ca5e\">7a6ebb1</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/99fcd452e2935266df487707a68246581e130ecf\">99fcd45</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/2d99fb362ae10c7215f62d86bfa3b417d6de2417\">2d99fb3</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/7a4bb19f6ec709aeacf573ca6c37c754d8952e12\">7a4bb19</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/793425edc3625515d86fd4fcddc849b3458a3ac0\">793425e</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   }
 ]
