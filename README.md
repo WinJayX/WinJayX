@@ -73,17 +73,17 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- 💻 [MongoDB Cluster 新建、备份、删除、还原数据库操作](https://winjay.cn/?p=7581fac2-c561-4605-8dcc-682820f5c328) 
+- 💻 [检查站点是否开启gzip压缩](https://winjay.cn/?p=63e2dd17-e687-412f-a8f7-77658a61db56) 
 
-- 🤡 [nohup部署更新升级Java后端项目](https://winjay.cn/?p=0da36091-cd02-4ffe-aa6f-2fac31724663) 
+- 🤡 [MongoDB Cluster 新建、备份、删除、还原数据库操作](https://winjay.cn/?p=7581fac2-c561-4605-8dcc-682820f5c328) 
 
-- 🎉 [Docker 缓存清理](https://winjay.cn/?p=96e455da-0e12-4076-abaa-06b70c1a4dcf) 
+- 🎉 [nohup部署更新升级Java后端项目](https://winjay.cn/?p=0da36091-cd02-4ffe-aa6f-2fac31724663) 
 
-- 👀 [【macOS】JDK 多版本切换配置](https://winjay.cn/?p=a202171b-a7f8-4f96-984c-0fff88648eb7) 
+- 👀 [Docker 缓存清理](https://winjay.cn/?p=96e455da-0e12-4076-abaa-06b70c1a4dcf) 
 
-- 👺 [Github Workflows Demo](https://winjay.cn/?p=905e4098-4250-487e-be18-071c4b9f9f26) 
+- 👺 [【macOS】JDK 多版本切换配置](https://winjay.cn/?p=a202171b-a7f8-4f96-984c-0fff88648eb7) 
 
-- 📝 [Docker镜像代理配置](https://winjay.cn/?p=aec73b20-37a8-4c6b-969d-b624627132de) 
+- 📝 [Github Workflows Demo](https://winjay.cn/?p=905e4098-4250-487e-be18-071c4b9f9f26) 
 <!-- BLOG-POST-LIST:END -->
 <p align="center">
 
