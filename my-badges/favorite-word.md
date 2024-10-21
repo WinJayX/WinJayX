@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. commit (used 1339 times)
-2. chore(bot): (used 1326 times)
-3. auto (used 1326 times)
-4. 👻 (used 143 times)
-5. 👿 (used 142 times)
+1. commit (used 1472 times)
+2. chore(bot): (used 1459 times)
+3. auto (used 1459 times)
+4. 👻 (used 159 times)
+5. 😱 (used 158 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
