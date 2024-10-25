@@ -73,17 +73,17 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- 💻 [CentOS7.9离线安装  MySQL8.0.36文档](https://winjay.cn/?p=210e8767-0404-47ea-8dd7-d01227f6b5ce) 
+- 💻 [git cherry-pick 教程](https://winjay.cn/?p=d8eb540c-6e8a-431f-86e8-ab7d1334720e) 
 
-- 🤡 [ElasticSearch Install IK Analysis｜ES安装IK分词器](https://winjay.cn/?p=e00ea160-d314-43fb-9b55-1666b0934acd) 
+- 🤡 [Info Docker Compose](https://winjay.cn/?p=30871b5e-dae3-44d0-b428-9a3810b6e183) 
 
-- 🎉 [检查站点是否开启gzip压缩](https://winjay.cn/?p=63e2dd17-e687-412f-a8f7-77658a61db56) 
+- 🎉 [CentOS7.9离线安装  MySQL8.0.36文档](https://winjay.cn/?p=210e8767-0404-47ea-8dd7-d01227f6b5ce) 
 
-- 👀 [MongoDB Cluster 新建、备份、删除、还原数据库操作](https://winjay.cn/?p=7581fac2-c561-4605-8dcc-682820f5c328) 
+- 👀 [ElasticSearch Install IK Analysis｜ES安装IK分词器](https://winjay.cn/?p=e00ea160-d314-43fb-9b55-1666b0934acd) 
 
-- 👺 [nohup部署更新升级Java后端项目](https://winjay.cn/?p=0da36091-cd02-4ffe-aa6f-2fac31724663) 
+- 👺 [检查站点是否开启gzip压缩](https://winjay.cn/?p=63e2dd17-e687-412f-a8f7-77658a61db56) 
 
-- 📝 [Docker 缓存清理](https://winjay.cn/?p=96e455da-0e12-4076-abaa-06b70c1a4dcf) 
+- 📝 [MongoDB Cluster 新建、备份、删除、还原数据库操作](https://winjay.cn/?p=7581fac2-c561-4605-8dcc-682820f5c328) 
 <!-- BLOG-POST-LIST:END -->
 <p align="center">
 
