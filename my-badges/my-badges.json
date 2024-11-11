@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"commit\".",
-    "body": "My favorite commit message words are:\n\n1. commit (used 1637 times)\n2. chore(bot): (used 1624 times)\n3. auto (used 1624 times)\n4. 😱 (used 177 times)\n5. 👻 (used 173 times)",
+    "body": "My favorite commit message words are:\n\n1. commit (used 1770 times)\n2. chore(bot): (used 1757 times)\n3. auto (used 1757 times)\n4. 😱 (used 191 times)\n5. 👻 (used 188 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/594ca45c22265481ce8d88b971cdc7c8e7c45ff9\">594ca45</a>: chore(bot): 🐐 auto commit",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/01ac506a1af074acd7adacebd996f576bf6080d2\">01ac506</a>: chore(bot): 💩 auto commit",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -131,5 +131,19 @@
     "desc": "I have two public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/2aa8f33e3c138153550ad8721f0a78e2c0d82797\">2aa8f33</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/c7660e8923e581283923aa2e8127effa61f1cf34\">c7660e8</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/737b5c86000747d845f9fe32a6bcc871004bed79\">737b5c8</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/23ad1a71a820abe71e7759b04c87794e3857fe07\">23ad1a7</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/24f154fb7c84694559f98097ca2bcb0a63a45799\">24f154f</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/534f090ffa70f21e8ad63d9922f38074ade8286c\">534f090</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   }
 ]
