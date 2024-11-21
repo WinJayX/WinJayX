@@ -73,17 +73,17 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- 💻 [离线环境 Docker Jar包启动空指针异常处理](https://winjay.cn/?p=d0483878-c524-4809-83e4-344afd192fe8) 
+- 💻 [Helm Install Prometheus](https://winjay.cn/?p=fc51bde7-b428-48dd-8cfc-995f584fc0aa) 
 
-- 🤡 [git cherry-pick 教程](https://winjay.cn/?p=d8eb540c-6e8a-431f-86e8-ab7d1334720e) 
+- 🤡 [离线环境 Docker Jar包启动空指针异常处理](https://winjay.cn/?p=d0483878-c524-4809-83e4-344afd192fe8) 
 
-- 🎉 [Info Docker Compose](https://winjay.cn/?p=30871b5e-dae3-44d0-b428-9a3810b6e183) 
+- 🎉 [git cherry-pick 教程](https://winjay.cn/?p=d8eb540c-6e8a-431f-86e8-ab7d1334720e) 
 
-- 👀 [CentOS7.9离线安装  MySQL8.0.36文档](https://winjay.cn/?p=210e8767-0404-47ea-8dd7-d01227f6b5ce) 
+- 👀 [Info Docker Compose](https://winjay.cn/?p=30871b5e-dae3-44d0-b428-9a3810b6e183) 
 
-- 👺 [ElasticSearch Install IK Analysis｜ES安装IK分词器](https://winjay.cn/?p=e00ea160-d314-43fb-9b55-1666b0934acd) 
+- 👺 [CentOS7.9离线安装  MySQL8.0.36文档](https://winjay.cn/?p=210e8767-0404-47ea-8dd7-d01227f6b5ce) 
 
-- 📝 [检查站点是否开启gzip压缩](https://winjay.cn/?p=63e2dd17-e687-412f-a8f7-77658a61db56) 
+- 📝 [ElasticSearch Install IK Analysis｜ES安装IK分词器](https://winjay.cn/?p=e00ea160-d314-43fb-9b55-1666b0934acd) 
 <!-- BLOG-POST-LIST:END -->
 <p align="center">
 
