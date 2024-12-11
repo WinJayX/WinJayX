@@ -3,14 +3,14 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/a620e9df315ce89cc0a8f09076f2fdf10d4d9d10\"><strong>a</strong>620e9df315ce89cc0a8f09076f2fdf10d4d9d10</a>",
+    "body": "- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/a4ca378cf3ecd7bcc1c5f6e62573d7e9198ea78e\"><strong>a</strong>4ca378cf3ecd7bcc1c5f6e62573d7e9198ea78e</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/abb4c4d69f7765d9c89aa840cf8e44e62234709d\"><strong>ab</strong>b4c4d69f7765d9c89aa840cf8e44e62234709d</a>",
+    "body": "- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/ab2aab88780b7a93fc3b3b7db249e7dd19afa6f6\"><strong>ab</strong>2aab88780b7a93fc3b3b7db249e7dd19afa6f6</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"commit\".",
-    "body": "My favorite commit message words are:\n\n1. commit (used 2060 times)\n2. chore(bot): (used 2047 times)\n3. auto (used 2047 times)\n4. 😱 (used 227 times)\n5. 👻 (used 212 times)",
+    "body": "My favorite commit message words are:\n\n1. commit (used 2200 times)\n2. chore(bot): (used 2187 times)\n3. auto (used 2187 times)\n4. #0; (used 135 times)\n5. update (used 77 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -49,13 +49,6 @@
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
-    "id": "old-issue-2",
-    "tier": 2,
-    "desc": "I closed an issue that was open for 2 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/goharbor/harbor-helm/issues/913\">#913</a>: unauthorized: unauthorized to access repository: ${project}/${appname}, action: push: unauthorized to access repository: ${project}/${appname}, action: push",
-    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
-  },
-  {
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
@@ -77,13 +70,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-15.png"
   },
   {
-    "id": "public-keys-1",
-    "tier": 1,
-    "desc": "I have one public key",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
-  },
-  {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
@@ -101,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/877c368d6835f41e2c6d9b3107c530abe2c829a3\">877c368</a>: chore(bot): 🐐 auto commit",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/652278b42d5c8e8a85675f0067b30b8261bcec65\">652278b</a>: chore(bot): 🙈 auto commit",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -121,8 +107,8 @@
   {
     "id": "cafe-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" 3 times.",
-    "body": "- <a href=\"https://github.com/WinJayX/000.Linux/commit/76e579cf2f28fcafeeadfd9bf071821578f65b9f\">76e579cf2f28f<strong>cafe</strong>eadfd9bf071821578f65b9f</a>\n- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/6dbc31f457b024acafe7145eb3e4c0e67bf7dbd6\">6dbc31f457b024a<strong>cafe</strong>7145eb3e4c0e67bf7dbd6</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/9c1fc7e98ca245547cafed1290b100129c4e1ad4\">9c1fc7e98ca245547<strong>cafe</strong>d1290b100129c4e1ad4</a>",
+    "desc": "I pushed a commit with \"cafe\" 4 times.",
+    "body": "- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/afa3dfcafeb5a07ff670af2fe929c3d52711a4a6\">afa3df<strong>cafe</strong>b5a07ff670af2fe929c3d52711a4a6</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/9c1fc7e98ca245547cafed1290b100129c4e1ad4\">9c1fc7e98ca245547<strong>cafe</strong>d1290b100129c4e1ad4</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/76e579cf2f28fcafeeadfd9bf071821578f65b9f\">76e579cf2f28f<strong>cafe</strong>eadfd9bf071821578f65b9f</a>\n- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/6dbc31f457b024acafe7145eb3e4c0e67bf7dbd6\">6dbc31f457b024a<strong>cafe</strong>7145eb3e4c0e67bf7dbd6</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
@@ -159,5 +145,19 @@
     "desc": "I committed on the Halloween! Boo!",
     "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/18b7271e126759afc28ea03acb39372a08c7a7e9\">18b7271</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/7e737624b0d25e8320874183270ef50187eb8e46\">7e73762</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/606d2b6ee0796bf774a63d7837b792f558c5bdd2\">606d2b6</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/594ca45c22265481ce8d88b971cdc7c8e7c45ff9\">594ca45</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/8df23e0a240673535a0c29636f455923519d198e\">8df23e0</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/91dcb65731136998fc77b55067f70de6d2b5e246\">91dcb65</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/WinJayX/002.Docker/commit/abc23003e7fc12bc12944641ca51109903ea1c57\"><strong>abc</strong>23003e7fc12bc12944641ca51109903ea1c57</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/eip-work/kuboard-v4-ldap-example/issues/4\">😕</a>\n* <a href=\"https://github.com/kubernetes/ingress-nginx/pull/7683\">❤️</a>\n* <a href=\"https://github.com/opsre/go-ldap-admin/issues/311#issuecomment-1987809440\">😕</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   }
 ]
