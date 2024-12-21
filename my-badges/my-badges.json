@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"commit\".",
-    "body": "My favorite commit message words are:\n\n1. commit (used 2200 times)\n2. chore(bot): (used 2187 times)\n3. auto (used 2187 times)\n4. #0; (used 135 times)\n5. update (used 77 times)",
+    "body": "My favorite commit message words are:\n\n1. commit (used 2349 times)\n2. chore(bot): (used 2336 times)\n3. auto (used 2336 times)\n4. #0; (used 135 times)\n5. update (used 77 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/652278b42d5c8e8a85675f0067b30b8261bcec65\">652278b</a>: chore(bot): 🙈 auto commit",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/c18d1d8e20a61b92793fb0e8f076317f01725547\">c18d1d8</a>: chore(bot): 🙈 auto commit",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -110,13 +110,6 @@
     "desc": "I pushed a commit with \"cafe\" 4 times.",
     "body": "- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/afa3dfcafeb5a07ff670af2fe929c3d52711a4a6\">afa3df<strong>cafe</strong>b5a07ff670af2fe929c3d52711a4a6</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/9c1fc7e98ca245547cafed1290b100129c4e1ad4\">9c1fc7e98ca245547<strong>cafe</strong>d1290b100129c4e1ad4</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/76e579cf2f28fcafeeadfd9bf071821578f65b9f\">76e579cf2f28f<strong>cafe</strong>eadfd9bf071821578f65b9f</a>\n- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/6dbc31f457b024acafe7145eb3e4c0e67bf7dbd6\">6dbc31f457b024a<strong>cafe</strong>7145eb3e4c0e67bf7dbd6</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
-  },
-  {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   },
   {
     "id": "delorean",
@@ -159,5 +152,12 @@
     "desc": "I liked my own comment so much that I upvoted it.",
     "body": "* <a href=\"https://github.com/eip-work/kuboard-v4-ldap-example/issues/4\">😕</a>\n* <a href=\"https://github.com/kubernetes/ingress-nginx/pull/7683\">❤️</a>\n* <a href=\"https://github.com/opsre/go-ldap-admin/issues/311#issuecomment-1987809440\">😕</a>",
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
