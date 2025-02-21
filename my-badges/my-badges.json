@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"commit\".",
-    "body": "My favorite commit message words are:\n\n1. commit (used 3073 times)\n2. auto (used 3060 times)\n3. #0; (used 135 times)\n4. update (used 77 times)\n5. add (used 73 times)",
+    "body": "My favorite commit message words are:\n\n1. commit (used 3220 times)\n2. auto (used 3207 times)\n3. #0; (used 135 times)\n4. update (used 77 times)\n5. add (used 73 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/045c54c192f78af54eadd669ec65cb6f5b0528e8\">045c54c</a>: chore(bot): 🤖 auto commit",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/b84f28193af533be4b79720d93826c15d188ee48\">b84f281</a>: chore(bot): 😂 auto commit",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -159,5 +159,12 @@
     "desc": "I have three public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/a4076892924e50a97fb90a7b5584dea198d12470\">a407689</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/f5ae871108d1b972b7b42a502d5c079d9d9dfb71\">f5ae871</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/25d57d6bf2b8547700e7cfe366551d0278ebaa4b\">25d57d6</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/e25a0a97cf3e9db39e672eaec2c7c4067810ec7e\">e25a0a9</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/6dfdfed7811d820e2f521d19654bcc7c588f1e26\">6dfdfed</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/2a2a6aa636ec1c5f15799d829c61031226484fb9\">2a2a6aa</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/8df4a4c4e1fcdc96744bbe38262a4a66588d5fc6\">8df4a4c</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/4e89285f261e04e06d405c83df5c77fbb4d68ea7\">4e89285</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/f60d2d82d6778c3b105f9046a71c98bd17b5b928\">f60d2d8</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/aa386eabdff273a7f3275c82da0e51d58466d559\">aa386ea</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/36ff0a77aa6a740010320c35aac498c856668bb3\">36ff0a7</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/b2bad6692b3c5e5485d346746e64a088d1df378f\">b2bad66</a>\n- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/828061d55971ebe2feec0bf60e54ba814616e73c\">828061d</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   }
 ]
