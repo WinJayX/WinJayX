@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"commit\".",
-    "body": "My favorite commit message words are:\n\n1. commit (used 3913 times)\n2. auto (used 3900 times)\n3. #0; (used 135 times)\n4. update (used 77 times)\n5. add (used 73 times)",
+    "body": "My favorite commit message words are:\n\n1. commit (used 4046 times)\n2. auto (used 4033 times)\n3. #0; (used 135 times)\n4. update (used 77 times)\n5. add (used 73 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/19fe45d338a633a5b8f754f4184d570e782a75f3\">19fe45d</a>: chore(bot): 👿 auto commit",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/dace87200c15f41d109466db421c4d666ccd689c\">dace872</a>: chore(bot): 🐐 auto commit",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
