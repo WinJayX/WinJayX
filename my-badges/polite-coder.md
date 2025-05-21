@@ -5,6 +5,7 @@
 I use words like "thanks" and "please" in my issues:
 
 - <a href="https://github.com/murphysecurity/murphysec/issues/150">#150</a>: Jenkins集成的文档怎么没有了？:open_book: `Docs`: 
+- <a href="https://github.com/taoyds/test-suite-sql-eval/issues/27">#27</a>: text-to-sql-llm
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
