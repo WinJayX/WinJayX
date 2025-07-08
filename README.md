@@ -104,13 +104,13 @@
 
 - 🤡 [谷歌浏览器中编辑并重发请求](https://winjay.cn/?p=e5e0366d-0862-48e9-94b3-250d2a820711) 
 
-- 🎉 [FFMPEG 视频格式转换&amp; 视频压缩](https://winjay.cn/?p=c1ed8221-39d7-41ef-9d6a-3aca0902081f) 
+- 🎉 [洞察危机：构建高效的系统故障处理方案](https://winjay.cn/?p=1acd1962-0ea3-4fc0-a051-4f5de174130d) 
 
-- 👀 [Helm Install Prometheus](https://winjay.cn/?p=fc51bde7-b428-48dd-8cfc-995f584fc0aa) 
+- 👀 [FFMPEG 视频格式转换&amp; 视频压缩](https://winjay.cn/?p=c1ed8221-39d7-41ef-9d6a-3aca0902081f) 
 
-- 👺 [离线环境 Docker Jar包启动空指针异常处理](https://winjay.cn/?p=d0483878-c524-4809-83e4-344afd192fe8) 
+- 👺 [Helm Install Prometheus](https://winjay.cn/?p=fc51bde7-b428-48dd-8cfc-995f584fc0aa) 
 
-- 📝 [git cherry-pick 教程](https://winjay.cn/?p=d8eb540c-6e8a-431f-86e8-ab7d1334720e) 
+- 📝 [离线环境 Docker Jar包启动空指针异常处理](https://winjay.cn/?p=d0483878-c524-4809-83e4-344afd192fe8) 
 <!-- BLOG-POST-LIST:END -->
 <p align="center">
 
