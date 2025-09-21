@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"commit\".",
-    "body": "My favorite commit message words are:\n\n1. commit (used 6080 times)\n2. auto (used 6064 times)\n3. #0; (used 141 times)\n4. update (used 77 times)\n5. add (used 76 times)",
+    "body": "My favorite commit message words are:\n\n1. commit (used 6219 times)\n2. auto (used 6203 times)\n3. #0; (used 141 times)\n4. update (used 77 times)\n5. add (used 76 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/d4bfbe26a3ee0590a586403113718e8c90c928b9\">d4bfbe2</a>: chore(bot): 👻 auto commit",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/853f4d23c429c20f51585b5dd866b2d34d19468a\">853f4d2</a>: chore(bot): 🙈 auto commit",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -161,10 +161,17 @@
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
   },
   {
-    "id": "public-keys-4",
-    "tier": 4,
-    "desc": "I have four public keys",
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/43d9f45186251e5d2a68674dca631080d1863b04\">43d9f45</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/9a1698e20673411c637b150a8ed3aba23d549204\">9a1698e</a>\n- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/b8cb2089f97251aa3483983b244372b3f037aa84\">b8cb208</a>\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/80f2417027972b7b6ba2520c585f016bb5f0cb0b\">80f2417</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/ebc589f49782ad2f1ce353a3e40d9cecd1628655\">ebc589f</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/db4da22eda1c65c4d7e3ee01dd3d475fb6e29609\">db4da22</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "public-keys-5",
+    "tier": 5,
+    "desc": "I have five or more public keys",
     "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+    "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
   }
 ]
