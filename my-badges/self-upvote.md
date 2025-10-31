@@ -3,6 +3,7 @@
 <br><br>
 
 * <a href="https://github.com/eip-work/kuboard-v4-ldap-example/issues/4">😕</a>
+* <a href="https://github.com/jpillora/docker-dnsmasq/pull/39">👍</a>
 * <a href="https://github.com/kubernetes/ingress-nginx/pull/7683">❤️</a>
 * <a href="https://github.com/opsre/go-ldap-admin/issues/311#issuecomment-1987809440">😕</a>
 
