@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/WinJayX/winjayx.github.io/commit/18b7271e126759afc28ea03acb39372a08c7a7e9">18b7271</a>
-- <a href="https://github.com/WinJayX/009.PublicCourses/commit/7e737624b0d25e8320874183270ef50187eb8e46">7e73762</a>
-- <a href="https://github.com/WinJayX/015.BaseServ/commit/606d2b6ee0796bf774a63d7837b792f558c5bdd2">606d2b6</a>
-- <a href="https://github.com/WinJayX/000.Linux/commit/594ca45c22265481ce8d88b971cdc7c8e7c45ff9">594ca45</a>
-- <a href="https://github.com/WinJayX/winjayx.github.io/commit/8df23e0a240673535a0c29636f455923519d198e">8df23e0</a>
-- <a href="https://github.com/WinJayX/002.Docker/commit/91dcb65731136998fc77b55067f70de6d2b5e246">91dcb65</a>
+- <a href="https://github.com/WinJayX/013.K8SReg/commit/cd7f0b1987d7f148445cff779791a76d3f34590a">cd7f0b1</a>
+- <a href="https://github.com/WinJayX/013.K8SReg/commit/16f1d7cd5f1d8addc4cd96c75359f268f90a0136">16f1d7c</a>
+- <a href="https://github.com/WinJayX/007.WinJayBlog/commit/7159cd6cae40cf7e8f10fe4160eaf13d98d4ab1c">7159cd6</a>
+- <a href="https://github.com/WinJayX/winjayx.github.io/commit/914ba17e06506778b90be099a7bd893a3d48174d">914ba17</a>
+- <a href="https://github.com/WinJayX/009.PublicCourses/commit/3ccb4ba05b0e5791b3fd22a9f745bd8ed980f844">3ccb4ba</a>
+- <a href="https://github.com/WinJayX/015.BaseServ/commit/e89142c7995bc9559b1b7b6590b83900329dd871">e89142c</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
