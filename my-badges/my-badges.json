@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"commit\".",
-    "body": "My favorite commit message words are:\n\n1. commit (used 6808 times)\n2. auto (used 6792 times)\n3. #0; (used 141 times)\n4. add (used 85 times)\n5. update (used 79 times)",
+    "body": "My favorite commit message words are:\n\n1. commit (used 6940 times)\n2. auto (used 6924 times)\n3. #0; (used 141 times)\n4. add (used 85 times)\n5. update (used 79 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/dffae163cbf9f8191ab13d8c36353348d89f09d1\">dffae16</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/5656e2a171acb1ea359880c725ee815e69c5934e\">5656e2a</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/b950e3577abebd0db92c61620d6478cbdd857f13\">b950e35</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/91aeed4f1232c2d156b5d1fc46bc298b95e48a0e\">91aeed4</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/46027c763d4742feeac6c096ac85a7610f36acc7\">46027c7</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/0be50f81f36404d1ca5310c59be0fdb3e2dceca6\">0be50f8</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/SmartFamilyEducation/commit/af7dae2d5d1ac1192580dfaf6c03a2b855b401fd\">af7dae2</a>\n- <a href=\"https://github.com/WinJayX/SmartFamilyEducation/commit/cfcebc1d446acb31cda313da17b6301d9d210707\">cfcebc1</a>\n- <a href=\"https://github.com/WinJayX/SmartFamilyEducation/commit/390bfbafc1b84db6655cdb8ffb76661339febfd6\">390bfba</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/dffae163cbf9f8191ab13d8c36353348d89f09d1\">dffae16</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/5656e2a171acb1ea359880c725ee815e69c5934e\">5656e2a</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/b950e3577abebd0db92c61620d6478cbdd857f13\">b950e35</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/e89142c7995bc9559b1b7b6590b83900329dd871\">e89142c</a>: chore(bot): 👻 auto commit",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/SmartFamilyEducation/commit/af7dae2d5d1ac1192580dfaf6c03a2b855b401fd\">af7dae2</a>: chore: 更新数据文件\n\n- 更新用户、儿童、家庭等业务数据\n- 更新成长模型、场景、活动等配置数据\n- 更新报告和记录数据",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "delorean",
     "tier": 0,
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/2aa8f33e3c138153550ad8721f0a78e2c0d82797\">2aa8f33</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/c7660e8923e581283923aa2e8127effa61f1cf34\">c7660e8</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/737b5c86000747d845f9fe32a6bcc871004bed79\">737b5c8</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/23ad1a71a820abe71e7759b04c87794e3857fe07\">23ad1a7</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/24f154fb7c84694559f98097ca2bcb0a63a45799\">24f154f</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/534f090ffa70f21e8ad63d9922f38074ade8286c\">534f090</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/c5e4f40609fd828e148de1792663ddced289bee1\">c5e4f40</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/3954e50c68f5370a7655c35f7d4c9494f69bf46a\">3954e50</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/8703586575de7e1426a0af660560f15e79b4b4f9\">8703586</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/d1031f8c0b2c8fa789cedaeff95f42ff42cd2d95\">d1031f8</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/07661440a89010ba4cc4f2bd1cdf11750aaa2534\">0766144</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/d1a3829e5c1aee7ecfc58646f0863549005b5563\">d1a3829</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
   },
   {

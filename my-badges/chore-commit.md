@@ -4,7 +4,11 @@
 
 Commits:
 
-- <a href="https://github.com/WinJayX/015.BaseServ/commit/e89142c7995bc9559b1b7b6590b83900329dd871">e89142c</a>: chore(bot): 👻 auto commit
+- <a href="https://github.com/WinJayX/SmartFamilyEducation/commit/af7dae2d5d1ac1192580dfaf6c03a2b855b401fd">af7dae2</a>: chore: 更新数据文件
+
+- 更新用户、儿童、家庭等业务数据
+- 更新成长模型、场景、活动等配置数据
+- 更新报告和记录数据
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
