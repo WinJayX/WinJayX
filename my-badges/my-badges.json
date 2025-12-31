@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"commit\".",
-    "body": "My favorite commit message words are:\n\n1. commit (used 7496 times)\n2. auto (used 7480 times)\n3. #0; (used 141 times)\n4. add (used 85 times)\n5. update (used 79 times)",
+    "body": "My favorite commit message words are:\n\n1. commit (used 7635 times)\n2. auto (used 7619 times)\n3. #0; (used 142 times)\n4. add (used 85 times)\n5. update (used 79 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -168,13 +168,6 @@
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   },
   {
-    "id": "public-keys-5",
-    "tier": 5,
-    "desc": "I have five or more public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
-  },
-  {
     "id": "self-star",
     "tier": 0,
     "desc": "I've starred 1 my own repositories.",
@@ -187,5 +180,33 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/WinJayX/docs/pull/1\">#1</a>: feat: add GitHub Achievements documentation for Pull Shark badge\n- <a href=\"https://github.com/WinJayX/docs/pull/2\">#2</a>: feat: add achievements progress tracking for Pull Shark badge",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you! Commits of force:",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/0ff59402a0ac5e741064d0cf43a09ed3181c19b9\">0ff5940</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/e6db8e02ba33b6115eae2a483e84ee844509f211\">e6db8e0</a>\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/5b951965f8e70e08ef43821e57235fc9a66a40f4\">5b95196</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/3a2985ba849095bacba7c6f7dad60dff92ea51d2\">3a2985b</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/511ba90e9d798d7f4c5b44699d1a034882cbb4c4\">511ba90</a>\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/009710943d73b3ef668fc8b3160b5ab65e7dfd45\">0097109</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/goharbor/harbor-helm/issues/913\">#913</a>: unauthorized: unauthorized to access repository: ${project}/${appname}, action: push: unauthorized to access repository: ${project}/${appname}, action: push",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/5136d0cd7a51991066df177b835df682dbb6c45e\">5136d0c</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/ec04388b11d038f66c1ddcdd3d1aa565681dcdb3\">ec04388</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/18161a1938d9bccc2c3f5c303452e21d6e8c1223\">18161a1</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/2501257b1884de5edbdadd1306ab994b696c07bf\">2501257</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/bf7b387e6fbed98c84bbee1ab39f1b739e94b086\">bf7b387</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/c17fe67f9972013b6ad934254b711ac1749e46d7\">c17fe67</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
