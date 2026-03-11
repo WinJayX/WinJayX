@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"commit\".",
-    "body": "My favorite commit message words are:\n\n1. commit (used 8471 times)\n2. auto (used 8451 times)\n3. #0; (used 142 times)\n4. add (used 85 times)\n5. update (used 79 times)",
+    "body": "My favorite commit message words are:\n\n1. commit (used 8609 times)\n2. auto (used 8589 times)\n3. #0; (used 142 times)\n4. add (used 85 times)\n5. update (used 79 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -107,8 +107,8 @@
   {
     "id": "cafe-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" 6 times.",
-    "body": "- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/afa3dfcafeb5a07ff670af2fe929c3d52711a4a6\">afa3df<strong>cafe</strong>b5a07ff670af2fe929c3d52711a4a6</a>\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/a905067ab3e93ebeb1c2d0b4cafe0d656a63235f\">a905067ab3e93ebeb1c2d0b4<strong>cafe</strong>0d656a63235f</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/9c1fc7e98ca245547cafed1290b100129c4e1ad4\">9c1fc7e98ca245547<strong>cafe</strong>d1290b100129c4e1ad4</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/dfe7a62a111e07c0423b3cafe936fc5e8b1aae98\">dfe7a62a111e07c0423b3<strong>cafe</strong>936fc5e8b1aae98</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/76e579cf2f28fcafeeadfd9bf071821578f65b9f\">76e579cf2f28f<strong>cafe</strong>eadfd9bf071821578f65b9f</a>\n- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/6dbc31f457b024acafe7145eb3e4c0e67bf7dbd6\">6dbc31f457b024a<strong>cafe</strong>7145eb3e4c0e67bf7dbd6</a>",
+    "desc": "I pushed a commit with \"cafe\" 7 times.",
+    "body": "- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/afa3dfcafeb5a07ff670af2fe929c3d52711a4a6\">afa3df<strong>cafe</strong>b5a07ff670af2fe929c3d52711a4a6</a>\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/a905067ab3e93ebeb1c2d0b4cafe0d656a63235f\">a905067ab3e93ebeb1c2d0b4<strong>cafe</strong>0d656a63235f</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/9c1fc7e98ca245547cafed1290b100129c4e1ad4\">9c1fc7e98ca245547<strong>cafe</strong>d1290b100129c4e1ad4</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/dfe7a62a111e07c0423b3cafe936fc5e8b1aae98\">dfe7a62a111e07c0423b3<strong>cafe</strong>936fc5e8b1aae98</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/b1de3b7f919961b2bbabb3ead9d841c25f0cafe4\">b1de3b7f919961b2bbabb3ead9d841c25f0<strong>cafe</strong>4</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/76e579cf2f28fcafeeadfd9bf071821578f65b9f\">76e579cf2f28f<strong>cafe</strong>eadfd9bf071821578f65b9f</a>\n- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/6dbc31f457b024acafe7145eb3e4c0e67bf7dbd6\">6dbc31f457b024a<strong>cafe</strong>7145eb3e4c0e67bf7dbd6</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
@@ -229,5 +229,12 @@
     "desc": "I have five or more public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/3c26506cbc5a36d7cb5c60602018deadac613ee7\">3c26506cbc5a36d7cb5c60602018<strong>dead</strong>ac613ee7</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   }
 ]
