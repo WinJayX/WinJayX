@@ -12,15 +12,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4  # ← 升级到 v4 (支持 Node.js 24)
+        uses: actions/checkout@v4
       
       - name: Pull in WinJay's posts
-        uses: gautamkrishnar/blog-post-workflow@master  # ← 用 master 分支 (最新版)
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 6
-          committer_email: "github-actions[bot]@users.noreply.github.com"
           feed_list: "https://winjay.cn/rss.xml"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           committer_username: "github-actions[bot]"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) $newline"
-          retry_count: 3  # ← 新增：重试 3 次
-          request_timeout: 60  # ← 新增：超时 60 秒
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"  # ← 添加这个！
