@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"commit\".",
-    "body": "My favorite commit message words are:\n\n1. commit (used 9317 times)\n2. auto (used 9297 times)\n3. #0; (used 142 times)\n4. add (used 85 times)\n5. update (used 81 times)",
+    "body": "My favorite commit message words are:\n\n1. commit (used 9441 times)\n2. auto (used 9421 times)\n3. #0; (used 142 times)\n4. add (used 85 times)\n5. update (used 81 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/XunYuanMiniPro/commit/b74b3d12fd8fdc0ec2844ad6047bfc86198e3ced\">b74b3d1</a>\n- <a href=\"https://github.com/WinJayX/XunYuanMiniPro/commit/4241ecad371b74729609b2c29e29290d98822ca4\">4241eca</a>\n- <a href=\"https://github.com/WinJayX/XunYuan-Web/commit/3b6b1ad8a36ed31a0a82192a6d26a074bda01393\">3b6b1ad</a>\n- <a href=\"https://github.com/WinJayX/XunYuan-Web/commit/8f810b4fc21935fd07a176f9dd4d1ad684d551a3\">8f810b4</a>\n- <a href=\"https://github.com/WinJayX/SmartFamilyEducation/commit/af7dae2d5d1ac1192580dfaf6c03a2b855b401fd\">af7dae2</a>\n- <a href=\"https://github.com/WinJayX/SmartFamilyEducation/commit/cfcebc1d446acb31cda313da17b6301d9d210707\">cfcebc1</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/d7ff777718eac9adfbbd963c9e8ce736592c17b9\">d7ff777</a>\n- <a href=\"https://github.com/WinJayX/XunYuanMiniPro/commit/b74b3d12fd8fdc0ec2844ad6047bfc86198e3ced\">b74b3d1</a>\n- <a href=\"https://github.com/WinJayX/XunYuanMiniPro/commit/4241ecad371b74729609b2c29e29290d98822ca4\">4241eca</a>\n- <a href=\"https://github.com/WinJayX/XunYuan-Web/commit/3b6b1ad8a36ed31a0a82192a6d26a074bda01393\">3b6b1ad</a>\n- <a href=\"https://github.com/WinJayX/XunYuan-Web/commit/8f810b4fc21935fd07a176f9dd4d1ad684d551a3\">8f810b4</a>\n- <a href=\"https://github.com/WinJayX/SmartFamilyEducation/commit/af7dae2d5d1ac1192580dfaf6c03a2b855b401fd\">af7dae2</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -185,7 +185,7 @@
     "id": "may-the-4th",
     "tier": 0,
     "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/0ff59402a0ac5e741064d0cf43a09ed3181c19b9\">0ff5940</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/e6db8e02ba33b6115eae2a483e84ee844509f211\">e6db8e0</a>\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/5b951965f8e70e08ef43821e57235fc9a66a40f4\">5b95196</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/3a2985ba849095bacba7c6f7dad60dff92ea51d2\">3a2985b</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/511ba90e9d798d7f4c5b44699d1a034882cbb4c4\">511ba90</a>\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/009710943d73b3ef668fc8b3160b5ab65e7dfd45\">0097109</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/6c341231abdf6820ed3caddcc35cf3f1e38042a6\">6c34123</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/e78ecb32e14b6414e612f217186cada54efb2548\">e78ecb3</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/866b5d11fb9d068f3f808b6a1f91a231d2fe891e\">866b5d1</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/055d77bad2865375875df99e66dc7c4469d514da\">055d77b</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/e30107f37df017e74eb8cd6fbf909bda2308b7e6\">e30107f</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/dbc514fd4eff274b1752222bdb1618fc2f34be32\">dbc514f</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
   {
