@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/WinJayX/011.Bind-DNS/commit/d7ff777718eac9adfbbd963c9e8ce736592c17b9">d7ff777</a>
-- <a href="https://github.com/WinJayX/XunYuanMiniPro/commit/b74b3d12fd8fdc0ec2844ad6047bfc86198e3ced">b74b3d1</a>
-- <a href="https://github.com/WinJayX/XunYuanMiniPro/commit/4241ecad371b74729609b2c29e29290d98822ca4">4241eca</a>
-- <a href="https://github.com/WinJayX/XunYuan-Web/commit/3b6b1ad8a36ed31a0a82192a6d26a074bda01393">3b6b1ad</a>
-- <a href="https://github.com/WinJayX/XunYuan-Web/commit/8f810b4fc21935fd07a176f9dd4d1ad684d551a3">8f810b4</a>
-- <a href="https://github.com/WinJayX/SmartFamilyEducation/commit/af7dae2d5d1ac1192580dfaf6c03a2b855b401fd">af7dae2</a>
+- <a href="https://github.com/WinJayX/011.Bind-DNS/commit/de25dea718df46d2f07a527e0a8cc8d0cad15a04">de25dea</a>
+- <a href="https://github.com/WinJayX/013.K8SReg/commit/f388ce6921323f82a616cfc7d9263556eaf62cde">f388ce6</a>
+- <a href="https://github.com/WinJayX/007.WinJayBlog/commit/640f1561e89d909f295820f76240110ee42a6103">640f156</a>
+- <a href="https://github.com/WinJayX/007.WinJayBlog/commit/a8f2b3f40af6e1c46ad24b399593dc237ff2ce74">a8f2b3f</a>
+- <a href="https://github.com/WinJayX/011.Bind-DNS/commit/dce29982955699f04a5a4c406ab0bc960daf6789">dce2998</a>
+- <a href="https://github.com/WinJayX/013.K8SReg/commit/841369ccfdeffef80dca700027164fde8258c547">841369c</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
