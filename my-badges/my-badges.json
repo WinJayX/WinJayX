@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"commit\".",
-    "body": "My favorite commit message words are:\n\n1. commit (used 9557 times)\n2. auto (used 9537 times)\n3. #0; (used 142 times)\n4. add (used 85 times)\n5. update (used 81 times)",
+    "body": "My favorite commit message words are:\n\n1. commit (used 9643 times)\n2. auto (used 9623 times)\n3. #0; (used 142 times)\n4. add (used 85 times)\n5. update (used 81 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/de25dea718df46d2f07a527e0a8cc8d0cad15a04\">de25dea</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/f388ce6921323f82a616cfc7d9263556eaf62cde\">f388ce6</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/640f1561e89d909f295820f76240110ee42a6103\">640f156</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/a8f2b3f40af6e1c46ad24b399593dc237ff2ce74\">a8f2b3f</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/dce29982955699f04a5a4c406ab0bc960daf6789\">dce2998</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/841369ccfdeffef80dca700027164fde8258c547\">841369c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/55a151cbde79bcffdffcdce4f5e830dfdd532dbc\">55a151c</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/c15f27011b9c3543850be258a95655aab3dbdc68\">c15f270</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/18f17349ccc61810ffc0631cca8d938ea6d03f95\">18f1734</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/c63d00cc43e3ec5ed0f97b7269909345a0527e20\">c63d00c</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/e589d53a488b55e25b3cf75f063228604ae5601d\">e589d53</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/b049389eca8aefc2918992b1842c758f046f8e46\">b049389</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/7e650f5d15654a90c3657eec53d16b0bc7adbcd7\">7e650f5</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/7fec367ecc0c8dc08487592eed4e3e1265757632\">7fec367</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/70c718b08f6bd0261e1debfab7ca81540709b66a\">70c718b</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/7de8fffd9b5961633245f2a34d44c9b7d16f82b7\">7de8fff</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/d815c1602b72daca7ee8b575291bc0b957894a95\">d815c16</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/09a1454211dbef1199dab8238782fa6ff28dcb8d\">09a1454</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/a54ca26dc594debfa167ea804634762f6315789c\">a54ca26</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/47242bbed3eaf19e7c04c215c15404d86f60d9db\">47242bb</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/7e650f5d15654a90c3657eec53d16b0bc7adbcd7\">7e650f5</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/7fec367ecc0c8dc08487592eed4e3e1265757632\">7fec367</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/70c718b08f6bd0261e1debfab7ca81540709b66a\">70c718b</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/7de8fffd9b5961633245f2a34d44c9b7d16f82b7\">7de8fff</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -229,5 +229,12 @@
     "desc": "I pushed a commit with \"dead\" 2 times.",
     "body": "- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/3c26506cbc5a36d7cb5c60602018deadac613ee7\">3c26506cbc5a36d7cb5c60602018<strong>dead</strong>ac613ee7</a>\n- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/201cb66f6e0dead6e771fc7865cb5963b83f9e62\">201cb66f6e0<strong>dead</strong>6e771fc7865cb5963b83f9e62</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/WinJayX/docs\">WinJayX/docs</a>\n- <a href=\"https://github.com/WinJayX/Myolotrain\">WinJayX/Myolotrain</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
