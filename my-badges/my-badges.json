@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"commit\".",
-    "body": "My favorite commit message words are:\n\n1. commit (used 9834 times)\n2. auto (used 9814 times)\n3. #0; (used 142 times)\n4. add (used 85 times)\n5. update (used 81 times)",
+    "body": "My favorite commit message words are:\n\n1. commit (used 9926 times)\n2. auto (used 9906 times)\n3. #0; (used 142 times)\n4. add (used 85 times)\n5. update (used 81 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/82a529ff4b70161bb7d88507b1905016d93cee48\">82a529f</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/11f7909779cdfad9f4785c5e400a79b7c4de73ee\">11f7909</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/3912a7ea83fb2b2bcb618f40ef2a42be20235d12\">3912a7e</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/7edcbc4486dec0bfb848a328c0bdb370273b1d20\">7edcbc4</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/690e112dcc4d2b4d46b2ea7556f637b674b9db54\">690e112</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/b2084da675e6ba51b94a69e6a12108e53a798eae\">b2084da</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/d23e602d6e13b67b42afe5ee7bda71a649591d51\">d23e602</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/f4c5e789e8b05ee11580822a4688f30c69be6cb1\">f4c5e78</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/cf117303ffd36b7b7453e184f9a7dfc9700d76ae\">cf11730</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/545e011d0c0c0a79906d4f3564500f4a1ffa5148\">545e011</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/7c5777d7ff970f8c786b119ba592cb0281feb5bd\">7c5777d</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/28cc1380853992cff180aafdb3f1fa003ef6e96f\">28cc138</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/8789646d9e501f62cc7618ccdeebcf1837289bb7\">8789646</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/1470610034972812554c30c397dafbc38e4380d7\">1470610</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/c61026701550c1eb172cfb32a66f638179fa8a2f\">c610267</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/68f7684583577006d823a135d1530667a59a0cae\">68f7684</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/e73047bece4ddb64ac0ef1235371b85f40316358\">e73047b</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/b705613ee1ec93ce5083a460b67f0a2524f523e8\">b705613</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/8213ff2729ac6c044c2191f4a52704864b168fc6\">8213ff2</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/4cc59d892d5b48966d67229ddabbcb7ee5ab322c\">4cc59d8</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/8789646d9e501f62cc7618ccdeebcf1837289bb7\">8789646</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/1470610034972812554c30c397dafbc38e4380d7\">1470610</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/c61026701550c1eb172cfb32a66f638179fa8a2f\">c610267</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/68f7684583577006d823a135d1530667a59a0cae\">68f7684</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
