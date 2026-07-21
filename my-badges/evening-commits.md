@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/WinJayX/011.Bind-DNS/commit/01350320ee88e01bb67c7e6fc9749e058c688075">0135032</a>
+- <a href="https://github.com/WinJayX/013.K8SReg/commit/3645aaf1c626a838e66b1ab9fc63cc3a72ec43a6">3645aaf</a>
+- <a href="https://github.com/WinJayX/011.Bind-DNS/commit/3fb5f6cddc290931106c0ece4a1e3203e30aaea2">3fb5f6c</a>
+- <a href="https://github.com/WinJayX/013.K8SReg/commit/1a48ebea53e99aba1b2d9c3304bcbda30795edc8">1a48ebe</a>
+- <a href="https://github.com/WinJayX/007.WinJayBlog/commit/a60838441495f6b28d900c447fd26d7b1581bd78">a608384</a>
 - <a href="https://github.com/WinJayX/013.K8SReg/commit/8663fb1e88e06f5cbb70f6d84efb88dad40f6485">8663fb1</a>
-- <a href="https://github.com/WinJayX/007.WinJayBlog/commit/d07c13c18da7aac874c918461b069414f1e79ab9">d07c13c</a>
-- <a href="https://github.com/WinJayX/007.WinJayBlog/commit/24020e7ea0c98933cf620cdd0f636e243bdc9d17">24020e7</a>
-- <a href="https://github.com/WinJayX/011.Bind-DNS/commit/953f18fc60a07da111a520624ed25002ba041e4c">953f18f</a>
-- <a href="https://github.com/WinJayX/013.K8SReg/commit/3297649961605be4ac7bcbd6e51984549d936dde">3297649</a>
-- <a href="https://github.com/WinJayX/007.WinJayBlog/commit/418bcd8d8bbb6900f0c12e2300c64648e60aac93">418bcd8</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
