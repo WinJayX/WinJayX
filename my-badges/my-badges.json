@@ -1,19 +1,5 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/a4ca378cf3ecd7bcc1c5f6e62573d7e9198ea78e\"><strong>a</strong>4ca378cf3ecd7bcc1c5f6e62573d7e9198ea78e</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/ab2aab88780b7a93fc3b3b7db249e7dd19afa6f6\"><strong>ab</strong>2aab88780b7a93fc3b3b7db249e7dd19afa6f6</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
@@ -21,32 +7,11 @@
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"commit\".",
-    "body": "My favorite commit message words are:\n\n1. commit (used 10154 times)\n2. auto (used 10134 times)\n3. #0; (used 142 times)\n4. add (used 85 times)\n5. update (used 81 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/005.Python/commit/332546783bd5bf8e25687f5dfad110936913f3a5\">3325467</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/005.Python/commit/ce67b42a58a22d424e484c2d7479fdc73cd12a17\">ce67b42</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
     "id": "pr-collaboration-5",
@@ -70,55 +35,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-15.png"
   },
   {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/01350320ee88e01bb67c7e6fc9749e058c688075\">0135032</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/3645aaf1c626a838e66b1ab9fc63cc3a72ec43a6\">3645aaf</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/3fb5f6cddc290931106c0ece4a1e3203e30aaea2\">3fb5f6c</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/1a48ebea53e99aba1b2d9c3304bcbda30795edc8\">1a48ebe</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/a60838441495f6b28d900c447fd26d7b1581bd78\">a608384</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/8663fb1e88e06f5cbb70f6d84efb88dad40f6485\">8663fb1</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "midnight-commits",
-    "tier": 0,
-    "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/1e7d719183a15f6b177cf3fe030f04ead95eb86e\">1e7d719</a>\n- <a href=\"https://github.com/WinJayX/005.Python/commit/dba0a5b20b6fd20a9344afef440a7f2cd50d2266\">dba0a5b</a>",
-    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
-  },
-  {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/SmartFamilyEducation/commit/af7dae2d5d1ac1192580dfaf6c03a2b855b401fd\">af7dae2</a>: chore: 更新数据文件\n\n- 更新用户、儿童、家庭等业务数据\n- 更新成长模型、场景、活动等配置数据\n- 更新报告和记录数据",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/8213ff2729ac6c044c2191f4a52704864b168fc6\">8213ff2</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/4cc59d892d5b48966d67229ddabbcb7ee5ab322c\">4cc59d8</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/8789646d9e501f62cc7618ccdeebcf1837289bb7\">8789646</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/1470610034972812554c30c397dafbc38e4380d7\">1470610</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/c61026701550c1eb172cfb32a66f638179fa8a2f\">c610267</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/68f7684583577006d823a135d1530667a59a0cae\">68f7684</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/7a5002c0fbeb5c91920baa991d6fbf83c00507f4\">7a5002c</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/ef07192160b7b09f61951ce57fdf460377b8420e\">ef07192</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/fce438df95edaf4717a07ce713b7b03b9f5f39e8\">fce438d</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/50a970e47918499488158e473f9c16d957bb75c7\">50a970e</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/2bb5bc9701bae3e8bbfd3c644e15cf84c5523dc9\">2bb5bc9</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/5d9570689266f3beedbfe210bdccb07004909a32\">5d95706</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "cafe-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" 7 times.",
-    "body": "- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/afa3dfcafeb5a07ff670af2fe929c3d52711a4a6\">afa3df<strong>cafe</strong>b5a07ff670af2fe929c3d52711a4a6</a>\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/a905067ab3e93ebeb1c2d0b4cafe0d656a63235f\">a905067ab3e93ebeb1c2d0b4<strong>cafe</strong>0d656a63235f</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/9c1fc7e98ca245547cafed1290b100129c4e1ad4\">9c1fc7e98ca245547<strong>cafe</strong>d1290b100129c4e1ad4</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/dfe7a62a111e07c0423b3cafe936fc5e8b1aae98\">dfe7a62a111e07c0423b3<strong>cafe</strong>936fc5e8b1aae98</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/b1de3b7f919961b2bbabb3ead9d841c25f0cafe4\">b1de3b7f919961b2bbabb3ead9d841c25f0<strong>cafe</strong>4</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/76e579cf2f28fcafeeadfd9bf071821578f65b9f\">76e579cf2f28f<strong>cafe</strong>eadfd9bf071821578f65b9f</a>\n- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/6dbc31f457b024acafe7145eb3e4c0e67bf7dbd6\">6dbc31f457b024a<strong>cafe</strong>7145eb3e4c0e67bf7dbd6</a>",
-    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
-  },
-  {
-    "id": "delorean",
-    "tier": 0,
-    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/c5e4f40609fd828e148de1792663ddced289bee1\">c5e4f40</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/3954e50c68f5370a7655c35f7d4c9494f69bf46a\">3954e50</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/8703586575de7e1426a0af660560f15e79b4b4f9\">8703586</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/d1031f8c0b2c8fa789cedaeff95f42ff42cd2d95\">d1031f8</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/07661440a89010ba4cc4f2bd1cdf11750aaa2534\">0766144</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/d1a3829e5c1aee7ecfc58646f0863549005b5563\">d1a3829</a>",
-    "image": "https://my-badges.github.io/my-badges/delorean.png"
-  },
-  {
     "id": "github-anniversary-10",
     "tier": 0,
     "desc": "I joined GitHub 10 years ago.",
@@ -133,39 +49,11 @@
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
-    "id": "spooky-commit",
-    "tier": 0,
-    "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/cd7f0b1987d7f148445cff779791a76d3f34590a\">cd7f0b1</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/16f1d7cd5f1d8addc4cd96c75359f268f90a0136\">16f1d7c</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/7159cd6cae40cf7e8f10fe4160eaf13d98d4ab1c\">7159cd6</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/914ba17e06506778b90be099a7bd893a3d48174d\">914ba17</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/3ccb4ba05b0e5791b3fd22a9f745bd8ed980f844\">3ccb4ba</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/e89142c7995bc9559b1b7b6590b83900329dd871\">e89142c</a>",
-    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
-  },
-  {
-    "id": "abc-commit",
-    "tier": 3,
-    "desc": "One of my commit sha starts with \"abc\".",
-    "body": "- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/abc354e0a787e3fd8284b403b189b6820c0bbe46\"><strong>abc</strong>354e0a787e3fd8284b403b189b6820c0bbe46</a>",
-    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
-  },
-  {
     "id": "self-upvote",
     "tier": 1,
     "desc": "I liked my own comment so much that I upvoted it.",
     "body": "* <a href=\"https://github.com/eip-work/kuboard-v4-ldap-example/issues/4\">😕</a>\n* <a href=\"https://github.com/jpillora/docker-dnsmasq/pull/39\">👍</a>\n* <a href=\"https://github.com/kubernetes/ingress-nginx/pull/7683\">❤️</a>\n* <a href=\"https://github.com/opsre/go-ldap-admin/issues/311#issuecomment-1987809440\">😕</a>",
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/e60b7fee02dc5c6ac6152c0b0dc8733721444d68\">e60b7fe</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/eeeabfbee44ad030d68756b4cd72ef9814ed2566\">eeeabfb</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/530bacaab8d74330b6fdfafd8974025c86ef7062\">530baca</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/65510136a5f6ffb009854783c99cd1f5287ca52f\">6551013</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/918868fc60a7d53e43a1bfc1896be8c1e0776336\">918868f</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/22c1917369eed51c9b38cefbee89374047c944e4\">22c1917</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/138a90e13bd53e84a488b027d0ca02f939e297fd\">138a90e</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/f6a2b87f5f4df018391b75605409b1af0b4d1eb4\">f6a2b87</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/c73a8e79467d0eee7a74716a25354e768cd74250\">c73a8e7</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/bc2509511dc8742a68d1e7f1cb97d885d9c0ef94\">bc25095</a>\n- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/5311cee13fa384973e0b49ae5261d2b1861dcc77\">5311cee</a>\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/0bde626a1780bbd8acc22b556a8abb5293867b41\">0bde626</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/bde6e8e8b99c03372be07e47162a52a053e8e253\">bde6e8e</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "programmers-day",
-    "tier": 0,
-    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/43d9f45186251e5d2a68674dca631080d1863b04\">43d9f45</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/9a1698e20673411c637b150a8ed3aba23d549204\">9a1698e</a>\n- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/b8cb2089f97251aa3483983b244372b3f037aa84\">b8cb208</a>\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/80f2417027972b7b6ba2520c585f016bb5f0cb0b\">80f2417</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/ebc589f49782ad2f1ce353a3e40d9cecd1628655\">ebc589f</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/db4da22eda1c65c4d7e3ee01dd3d475fb6e29609\">db4da22</a>",
-    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   },
   {
     "id": "this-is-fine",
@@ -175,13 +63,6 @@
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
-    "id": "may-the-4th",
-    "tier": 0,
-    "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/6c341231abdf6820ed3caddcc35cf3f1e38042a6\">6c34123</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/e78ecb32e14b6414e612f217186cada54efb2548\">e78ecb3</a>\n- <a href=\"https://github.com/WinJayX/011.Bind-DNS/commit/866b5d11fb9d068f3f808b6a1f91a231d2fe891e\">866b5d1</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/055d77bad2865375875df99e66dc7c4469d514da\">055d77b</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/e30107f37df017e74eb8cd6fbf909bda2308b7e6\">e30107f</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/dbc514fd4eff274b1752222bdb1618fc2f34be32\">dbc514f</a>",
-    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
-  },
-  {
     "id": "old-issue-2",
     "tier": 2,
     "desc": "I closed an issue that was open for 2 years",
@@ -189,52 +70,10 @@
     "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
   },
   {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/c13f2f5b315a03bcd4a982d087f2daa827017857\">c13f2f5</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/1cf53de531049e13c38c3dfef88da0152ff40c51\">1cf53de</a>\n- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/86df73d87136b2ca5fd33808e0fa7e6098686ffa\">86df73d</a>\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/5bce12da7e72ce88642eeac0ed5d8021c1582450\">5bce12d</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/465eb88525ef55aa5f1b1c089a4ee4de4918dc91\">465eb88</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/2f18e48924be796e49af86c2a8fb7fe9ff491209\">2f18e48</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
-  },
-  {
-    "id": "alien-day",
-    "tier": 0,
-    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/d9ba1df2614f9907465c50a37a08e401e49feedb\">d9ba1df</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/8404d4f40f64fe749b070d1e9ccb996a4a96c204\">8404d4f</a>\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/db1f69c9932c83d0d18fc5017ddd908b506d3f91\">db1f69c</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/8944c2aef5f3fde39505fb4c5697eb9563982339\">8944c2a</a>\n- <a href=\"https://github.com/WinJayX/002.Docker/commit/74ecf5d40728d0df356722a569a46463ce9939e1\">74ecf5d</a>\n- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/59481bb192bfd0ba1981e1ccf10c0a60fb91825e\">59481bb</a>",
-    "image": "https://my-badges.github.io/my-badges/alien-day.png"
-  },
-  {
-    "id": "science-fiction-day",
-    "tier": 0,
-    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/6ae3a4f3387e91ff35c66802ee83e03eccd17afe\">6ae3a4f</a>\n- <a href=\"https://github.com/WinJayX/013.K8SReg/commit/9a2294c98885348da2180fe1edde42158971f4ce\">9a2294c</a>\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/d2ae439645da7f45d7f0701ef6e16fb9e3c679ba\">d2ae439</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/ef221794d78e32c7f100574c1ff1b85ab7c979be\">ef22179</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/ba62d546278da7974926207f629e2a79a2011d76\">ba62d54</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/a78ab24d612370d74e76c940dcd23639788ea537\">a78ab24</a>",
-    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/WinJayX/007.WinJayBlog/commit/426e3c7662e6ce218f6f3cd4c40e8ec3b7cf0df2\">426e3c7</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/626a23ebb43e5cf8c8b724a969b53503e8006613\">626a23e</a>\n- <a href=\"https://github.com/WinJayX/015.BaseServ/commit/0044cf383b1c8df7a8d4aa169cad580fa105ac56\">0044cf3</a>\n- <a href=\"https://github.com/WinJayX/009.PublicCourses/commit/2dc18b73c3fc615c7f948f75dbe2698896181565\">2dc18b7</a>\n- <a href=\"https://github.com/WinJayX/000.Linux/commit/d639dc6eac4d847e0d75a8fcbf120fccb98a0d6c\">d639dc6</a>\n- <a href=\"https://github.com/WinJayX/winjayx.github.io/commit/414819089d3294204c1c9350d5cf1e6342b35082\">4148190</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
     "id": "public-keys-5",
     "tier": 5,
     "desc": "I have five or more public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-5.png"
-  },
-  {
-    "id": "dead-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/WinJayX/004.KubernetesYaml/commit/3c26506cbc5a36d7cb5c60602018deadac613ee7\">3c26506cbc5a36d7cb5c60602018<strong>dead</strong>ac613ee7</a>\n- <a href=\"https://github.com/WinJayX/006.Docker-LNMP/commit/201cb66f6e0dead6e771fc7865cb5963b83f9e62\">201cb66f6e0<strong>dead</strong>6e771fc7865cb5963b83f9e62</a>",
-    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/WinJayX/docs\">WinJayX/docs</a>\n- <a href=\"https://github.com/WinJayX/Myolotrain\">WinJayX/Myolotrain</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
