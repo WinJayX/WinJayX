@@ -56,13 +56,6 @@
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   },
   {
-    "id": "this-is-fine",
-    "tier": 0,
-    "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/WinJayX/docs/pull/1\">#1</a>: feat: add GitHub Achievements documentation for Pull Shark badge\n- <a href=\"https://github.com/WinJayX/docs/pull/2\">#2</a>: feat: add achievements progress tracking for Pull Shark badge",
-    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
-  },
-  {
     "id": "old-issue-2",
     "tier": 2,
     "desc": "I closed an issue that was open for 2 years",
